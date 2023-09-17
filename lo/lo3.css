@@ -1,0 +1,73 @@
+body{
+    background: center;
+    background-size: cover;
+    font-family: sans-serif;
+    margin-top: 40px;
+    }
+    
+    *{
+    margin: 0;
+    padding: 0;
+    
+    }
+    .regform{
+    width: 800px;
+    background-color:white;
+    margin:auto;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 30px 30px 15px 15px;
+    }
+    .main{
+    background-color: white;
+    width: 800px;
+    margin:30;
+   
+    }
+    
+    form{
+    padding: 10px;
+    }
+    .gender-title{
+        margin-left: 25px;
+        margin-top: 30px;
+        width: 125px;
+        color: black;
+        font-size: 22px;
+        font-weight: 700;
+        }
+
+        .Tarikh{
+            margin-left: 25px;
+            margin-top: 30px;
+            width: 125px;
+            color: black;
+            font-size: 22px;
+            font-weight: 700;
+            }
+            .tarikh{
+                position: relative;
+                left: -100px;
+                top: -29px;
+                border-radius: 6px;
+                line-height: 30px;
+                padding: 0 22px;
+                font-size: 16px;
+                }
+ .Namber{
+                    margin-left: 25px;
+                    margin-top: 30px;
+                    width: 125px;
+                    color: black;
+                    font-size: 22px;
+                    font-weight: 700;
+                    }
+ .namber{
+                        position: relative;
+                        left: -100px;
+                        top: -29px;
+                        border-radius: 6px;
+                        line-height: 30px;
+                        padding: 0 22px;
+                        font-size: 16px;
+                        }

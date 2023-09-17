@@ -1,0 +1,18 @@
+/*general*/
+html{
+background: url(dz.png);
+background-size: cover;
+}
+h3{
+color:white;
+}
+
+.container{
+    width: 100%;
+max-width: 650px;
+background: rgba(204, 201, 201, 0.5);
+padding: 28px;
+margin: 0 28px;
+border-radius: 10px;
+box-shadow: inset -2px 2px 2px white;
+}

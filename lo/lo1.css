@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(alg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    }
+    h1{
+font-size: 5em;
+margin: 0;
+padding: 0;
+text-align: center;
+font-family: 'arial';
+position: absolute;
+top: 35%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+    }
+    
+button{
+    color: #fff;
+    border-radius: 20px;
+    font-size: 35px;
+    text-align: center;
+    margin: 40px;
+    border: none;
+    margin: 20px;
+    position: fixed;
+    left: 40%;
+    top: 70%;
+    }

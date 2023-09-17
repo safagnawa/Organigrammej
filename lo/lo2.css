@@ -1,0 +1,159 @@
+body{
+background: center;
+background-size: cover;
+font-family: sans-serif;
+margin-top: 40px;
+}
+
+*{
+margin: 0;
+padding: 0;
+
+}
+.regform{
+width: 800px;
+background-color:white;
+margin:auto;
+padding: 10px 0px 10px 0px;
+text-align: center;
+border-radius: 30px 30px 15px 15px;
+}
+.main{
+background-color: white;
+width: 800px;
+margin:30;
+
+}
+
+form{
+padding: 10px;
+}
+#name{
+width: 100%;
+height: 100px;
+}
+
+.name{
+margin-left: 25px;
+margin-top: 30px;
+width: 125px;
+color: black;
+font-size: 22px;
+font-weight: 700;
+}
+
+.firstname{
+position: relative;
+left: -50px;
+top: -29px;
+border-radius: 6px;
+line-height: 30px;
+padding: 0 22px;
+font-size: 16px;
+}
+.n_ame{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+    }
+    
+    .lastname{
+    position: relative;
+    left: -50px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+    }
+    
+    .Age{
+        margin-left: 25px;
+        margin-top: 30px;
+        width: 125px;
+        color: black;
+        font-size: 22px;
+        font-weight: 700;
+        }
+        .age{
+            position: relative;
+            left: -100px;
+            top: -29px;
+            border-radius: 6px;
+            line-height: 30px;
+            padding: 0 22px;
+            font-size: 16px;
+            }
+   .Address{
+                margin-left: 25px;
+                margin-top: 30px;
+                width: 125px;
+                color: black;
+                font-size: 22px;
+                font-weight: 700;
+            }
+  .address{
+                position: relative;
+                left: -100px;
+                top: -29px;
+                border-radius: 6px;
+                line-height: 30px;
+                padding: 0 22px;
+                font-size: 16px;
+  }
+  .Wilaya{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}
+.wilaya{
+    position: relative;
+    left: -100px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.Bladiya{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}
+.bladiya{
+    position: relative;
+    left: -100px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+.Raqm{
+    margin-left: 25px;
+    margin-top: 30px;
+    width: 125px;
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}
+.raqm{
+    position: relative;
+    left: -150
+    px;
+    top: -29px;
+    border-radius: 6px;
+    line-height: 30px;
+    padding: 0 22px;
+    font-size: 16px;
+}
+
